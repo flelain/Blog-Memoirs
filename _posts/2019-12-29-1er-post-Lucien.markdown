@@ -2,7 +2,7 @@
 title: "Kids' Post - Ma rentrée à l'école"
 layout: post
 date: 2019-12-29 15:26
-image: /assets/images/Andre-Piolat.jpg
+image: assets/images/Andre-Piolat.jpg
 tag:
 - école
 - André-Piolat

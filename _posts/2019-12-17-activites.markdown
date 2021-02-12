@@ -2,7 +2,7 @@
 title: "Vancouver et ses environs : un terrain de jeu incroyable !"
 layout: post
 date: 2019-12-20 22:30
-image: /assets/images/Vancouver_Grouse.jpg
+image: assets/images/Vancouver_Grouse.jpg
 tag:
 - Vancouver
 - Grouse

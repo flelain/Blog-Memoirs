@@ -2,7 +2,7 @@
 title: "Coronavirus : et que se passe-t-il pendant ce temps au Canada ?"
 layout: post
 date: 2020-03-28 21:18
-image: /assets/images/Covid-19.jpg
+image: assets/images/Covid-19.jpg
 tag:
 - Coronavirus
 - école

@@ -2,7 +2,7 @@
 title: "A quoi ressemble un mois d'Avril 2020 à North Vancouver?"
 layout: post
 date: 2020-04-25 21:42
-image: /assets/images/our_present_what_future.jpg
+image: assets/images/our_present_what_future.jpg
 tag:
 - Coronavirus
 - Covid-19

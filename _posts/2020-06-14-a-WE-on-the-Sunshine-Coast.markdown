@@ -2,7 +2,7 @@
 title: "Un WE sur la Sunshine Coast, Colombie-Britannique"
 layout: post
 date: 2020-06-14 14:01
-image: /assets/images/Sunshine_Coast_banner.jpg
+image: assets/images/Sunshine_Coast_banner.jpg
 tag:
 - Sunshine Coast
 - Gibsons

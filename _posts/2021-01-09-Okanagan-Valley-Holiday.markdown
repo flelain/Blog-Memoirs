@@ -2,7 +2,7 @@
 title: "Une semaine de vacances dans l'Okanagan Valley"
 layout: post
 date: 2021-01-09 22:03
-image: /assets/images/dusk-SilverStar.jpg
+image: assets/images/dusk-SilverStar.jpg
 tag:
 - Okanagan
 - vacances

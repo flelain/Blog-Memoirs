@@ -2,7 +2,7 @@
 title: "Halloween 2020 à North Vancouver"
 layout: post
 date: 2020-11-06 21:42
-image: /assets/images/trick-or-treat-pumpkins.jpg
+image: assets/images/trick-or-treat-pumpkins.jpg
 tag:
 - Halloween
 - North Vancouver

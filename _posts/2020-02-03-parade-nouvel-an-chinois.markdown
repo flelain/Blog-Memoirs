@@ -2,7 +2,7 @@
 title: "Le Nouvel An chinois a Vancouver"
 layout: post
 date: 2020-02-03 20:21
-image: /assets/images/parade_header.jpg
+image: assets/images/parade_header.jpg
 tag:
 - Nouvel An chinois
 - Chinatown

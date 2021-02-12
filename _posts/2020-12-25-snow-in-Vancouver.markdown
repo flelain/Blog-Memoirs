@@ -2,7 +2,7 @@
 title: "Let it snow, let it snow, let it snow"
 layout: post
 date: 2020-12-25 22:34
-image: /assets/images/aerial-Cypress.jpg
+image: assets/images/aerial-Cypress.jpg
 tag:
 - neige
 - ski

@@ -2,7 +2,7 @@
 title: "6 mois au Canada : quel bilan à date ?"
 layout: post
 date: 2020-02-23 17:43
-image: /assets/images/maple_leaf.jpg
+image: assets/images/maple_leaf.jpg
 tag:
 - six mois
 - école

@@ -2,7 +2,7 @@
 title: "A couple of nights struggling with php/mysql on a Jekyll website"
 layout: post
 date: 2020-01-19 10:24
-image: /assets/images/jekyll-logo-light-solid.png
+image: assets/images/jekyll-logo-light-solid.png
 tag:
 - jekyll
 - php
