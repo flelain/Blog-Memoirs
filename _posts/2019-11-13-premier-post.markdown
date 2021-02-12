@@ -21,7 +21,7 @@ Voilà maintenant 3 mois que nous avons atterri à Vancouver. Déjà beaucoup de
 ## Nos premiers jours
 On a profité de notre première semaine pour poser les valises et découvrir Vancouver avec les enfants. Visite du **centre-ville** typiquement Nord-Américain, des rives et plages du **détroit de Burrard**, points de vue sur les **fabuleux paysages naturels** entourant Vancouver...
 
-![Markdowm Image](assets/images/posts/IMG_6893.jpg)
+![Markdowm Image](/assets/images/IMG_6893.jpg)
 <figcaption class="caption">Jericho beach</figcaption>
 
 <div class="breaker"></div>
@@ -39,28 +39,28 @@ Au total, des souvenirs inoubliables :
 
 * de **Tofino et de son immense plage** idéale pour le surf...
 
-![Markdown Image](assets/images/posts/IMG_6976.jpg)
+![Markdown Image](/assets/images/IMG_6976.jpg)
 <figcaption class="caption">Long Beach</figcaption>
 
 <div class="breaker"></div>
 
 * de **Victoria** et de notre tour en bateau pour aller voir les **baleines, orques, phoques et éléphants de mer...**
 
-![Markdown Image](assets/images/posts/IMG_6967.jpg)
+![Markdown Image](/assets/images/IMG_6967.jpg)
 <figcaption class="caption">Des éléphants de mer se prélassant au large de Victoria</figcaption>
 
 <div class="breaker"></div>
 
 * de la multitude de **lacs** à l'eau incroyablement limpide!
 
-![Markdown Image](assets/images/posts/IMG_7054.jpg)
+![Markdown Image](/assets/images/IMG_7054.jpg)
 <figcaption class="caption">Une aire de repos le long de l'Autoroute</figcaption>
 
 <div class="breaker"></div>
 
 * Et tout simplement de la pratique du **camping dans les parcs provinciaux de la Colombie-Britannique**, une expérience inoubliable avec ses sites aménagés, ses feux de camps et grillades :)
 
-![Markdown Image](assets/images/posts/IMG_6935.jpg)
+![Markdown Image](/assets/images/IMG_6935.jpg)
 <figcaption class="caption">Notre premier BC Park, à Gordon Lake</figcaption>
 
 ---
@@ -68,18 +68,18 @@ Au total, des souvenirs inoubliables :
 ## Notre installation
 Sympa les vacances, on aimerait que ça dure, hein les enfants ?.. Mais, la rentrée des classes ici, c'est comme en France, **c'est la première semaine de Septembre** ! Donc, cette fois on pose les valises pour de bon et on les vide pour un moment :) Et ça, ça se passe ici :
 
-![Markdown Image](assets/images/posts/carte_NV.jpg)
+![Markdown Image](/assets/images/carte_NV.jpg)
 <figcaption class="caption">On est là !</figcaption>
 
 <div class="breaker"></div>
 
 On s'installe donc dans une belle petite maison de **North Vancouver**, une ville à deux  ̶p̶a̶s̶ brassées de Vancouver, dans un environnement beaucoup plus... calme. Et "accessoirement" avec la montagne dans le fond du jardin ou presque. Tout comme la mer en fait, mais de l'autre côté :)
-![Markdown Image](assets/images/posts/vue_maison_N.jpg)
+![Markdown Image](/assets/images/vue_maison_N.jpg)
 <figcaption class="caption"> Vue au Nord depuis la maison </figcaption>
 
 <div class="breaker"></div>
 
-![Markdown Image](assets/images/posts/vue_maison_S.jpg)
+![Markdown Image](/assets/images/vue_maison_S.jpg)
 <figcaption class="caption"> Vue au Sud depuis la maison </figcaption>
 
 <div class="breaker"></div>
