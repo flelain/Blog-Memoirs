@@ -7,7 +7,7 @@ tag:
 - Nouvel An chinois
 - Chinatown
 - Radio Canada
-category:
+categories:
 - Découverte
 author: flelain
 description: la parade du Nouvel An chinois à Vancouver

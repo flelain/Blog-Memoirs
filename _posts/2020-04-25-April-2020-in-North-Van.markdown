@@ -8,7 +8,7 @@ tag:
 - Covid-19
 - Confinement
 - Beautiful British Columbia
-category:
+categories:
 - News
 author: flelain
 description: le Coronavirus vu de Colombie-Britannique, Canada

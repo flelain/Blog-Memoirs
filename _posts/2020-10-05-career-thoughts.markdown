@@ -9,7 +9,7 @@ tag:
 - career
 - English
 categories:
-- projet
+- Project
 author: flelain
 description: free thoughts about my career path since we moved to Vancouver
 ---

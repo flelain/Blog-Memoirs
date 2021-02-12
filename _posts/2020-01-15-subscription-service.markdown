@@ -8,7 +8,7 @@ tag:
 - php
 - svg
 categories:
-- Projet
+- Project
 author: flelain
 description: lessons learnt while adding a subscription offer to the blog
 ---

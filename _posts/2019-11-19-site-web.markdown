@@ -10,7 +10,7 @@ tag:
 - github
 - Linux
 categories:
-- Projet
+- Project
 author: flelain
 description: some details about this blog creation
 ---

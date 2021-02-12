@@ -8,7 +8,7 @@ tag:
 - ski
 - luge
 - Noël
-category:
+categories:
 - News
 author: flelain
 description: la neige est (sérieusement) de retour
