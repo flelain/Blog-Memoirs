@@ -2,7 +2,7 @@
 title: "De la neige à Vancouver?"
 layout: post
 date: 2020-01-21 22:30
-image: /assets/images/posts/snow_house.jpg
+image: /assets/images/snow_house.jpg
 tag:
 - neige
 - luge
@@ -17,19 +17,19 @@ Avant de partir, on a entendu des dizaines de fois "Vous partez au Canada ? Eh b
 
 ---
 
-![Markdowm Image](/assets/images/posts/snow_South.jpg)
+![Markdowm Image](/assets/images/snow_South.jpg)
 <figcaption class="caption">15cm le 13/01 puis 15cm de nouveau le 14...</figcaption>
 <br>
 
-![Markdowm Image](/assets/images/posts/sled_team.jpg)
+![Markdowm Image](/assets/images/sled_team.jpg)
 <figcaption class="caption">notre fière équipe de bobsled, profitant de l'école fermée</figcaption>
 <br>
 
-![Markdowm Image](/assets/images/posts/snow_North.jpg)
+![Markdowm Image](/assets/images/snow_North.jpg)
 <figcaption class="caption">heureusement (pour les parents), l'école n'était pas fermée tous les jours ! :) </figcaption>
 <br>
 
-![Markdowm Image](/assets/images/posts/snow_street.jpg)
+![Markdowm Image](/assets/images/snow_street.jpg)
 <figcaption class="caption">notre rue le 15/01, à mi-chemin entre terrain de jeu et piste de ski</figcaption>
 
 ---

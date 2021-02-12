@@ -2,7 +2,7 @@
 title: "Le Nouvel An chinois a Vancouver"
 layout: post
 date: 2020-02-03 20:21
-image: /assets/images/posts/parade_header.jpg
+image: /assets/images/parade_header.jpg
 tag:
 - Nouvel An chinois
 - Chinatown
@@ -16,15 +16,15 @@ description: la parade du Nouvel An chinois à Vancouver
 Bonjour à tous,
 On commence à s'habituer aux "premières" ici. Eh bien, en voici une nouvelle à partager avec vous : nous avons assisté dimanche 26 janvier à notre première grande parade du Nouvel An chinois, en plein Chinatown à Vancouver. Et quand je dis "grande", je pèse mes mots ! Il faut savoir que la communauté chinoise compte près de 500 000 personnes sur la métropole de Vancouver, ce qui explique l'ampleur de l'événement. Enviton 100 000 spectateurs pour 3 000 participants dans la parade, animant des dragons géants, assurant des démonstrations de danse ou d'arts martiaux, jouant de la musique, allumant des pétards mitraillette...
 
-![Markdowm Image](/assets/images/posts/parade_large.jpg)
+![Markdowm Image](/assets/images/parade_large.jpg)
 <figcaption class="caption">La parade à l'entrée de Chinatown</figcaption>
 <br>
 
-![Markdowm Image](/assets/images/posts/parade_dragon.jpg)
+![Markdowm Image](/assets/images/parade_dragon.jpg)
 <figcaption class="caption">Un dragon long de plusieurs mètres nous scrute...</figcaption>
 <br>
 
-![Markdowm Image](/assets/images/posts/parade_martial_arts.jpg)
+![Markdowm Image](/assets/images/parade_martial_arts.jpg)
 <figcaption class="caption">Démonstration d'arts martiaux</figcaption>
 <br>
 
@@ -32,7 +32,7 @@ Une fête pleine d'ambiance rassemblant des Vancouverites de toutes les communau
 
 Peut-être plus étonnant : les badauds francophones étaient plutôt rares en cette journée... Nous avons donc été rapidement repérés par une journaliste de Radio-Canada, réalisant un reportage sur le défilé pour le journal de français de cette chaîne et radio publique nationale. L'occasion pour nous de détecter du potentiel d'animateur-trice chez nos enfants qui se sont sentis plutôt à l'aise devant la caméra :sunglasses:
 
-![Markdowm Image](/assets/images/posts/parade_television.jpg)
+![Markdowm Image](/assets/images/parade_television.jpg)
 <figcaption class="caption">Lulu raconte son Nouvel An chinois à Radio-Canada</figcaption>
 <br>
 

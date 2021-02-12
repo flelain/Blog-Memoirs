@@ -2,7 +2,7 @@
 title: "Kids' Post - Ma rentrée à l'école"
 layout: post
 date: 2019-12-29 15:26
-image: /assets/images/posts/Andre-Piolat.jpg
+image: /assets/images/Andre-Piolat.jpg
 tag:
 - école
 - André-Piolat
@@ -27,7 +27,7 @@ Le jour d'après, presque pareil, sauf qu'à la récré, j'ai joué avec Daniel 
 
 A l'heure de manger, on prend nos boîtes à lunch (=boîtes à dîner=popotes du midi), préparés par les parents la veille et on les mange dans la classe. On a 15 min pour manger avant de partir en récré.
 
-![Markdowm Image](/assets/images/posts/Lu_boite_a_lunch.jpg)
+![Markdowm Image](/assets/images/Lu_boite_a_lunch.jpg)
 <figcaption class="caption">Voilà à quoi ressemble ma boîte à Lunch</figcaption>
 
 <br>

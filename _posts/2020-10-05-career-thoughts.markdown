@@ -2,7 +2,7 @@
 title: "Stepping back after one year -and counting- in Vancouver"
 layout: post
 date: 2020-10-05 20:33
-image: /assets/images/posts/aerial_sunset_Vancouver.jpg
+image: /assets/images/aerial_sunset_Vancouver.jpg
 tag:
 - work
 - skills

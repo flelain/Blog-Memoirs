@@ -2,7 +2,7 @@
 title: "Vancouver et ses environs : un terrain de jeu incroyable !"
 layout: post
 date: 2019-12-20 22:30
-image: /assets/images/posts/Vancouver_Grouse.jpg
+image: /assets/images/Vancouver_Grouse.jpg
 tag:
 - Vancouver
 - Grouse
@@ -23,17 +23,17 @@ Eh bien, une fois ce point de situation fait, je réalise d'autant plus que l'on
 
 - **la randonnée** bien évidemment, de l'espace naturel autour du torrent du bout de notre rue jusqu'à quelques sentiers des montagnes environnantes, comme **Grouse Mountain** par ex et son fameux <a href="https://www.grousemountain.com/grousegrind">Grouse Grind</a>. Ou encore, comme ici à **Lynn Canyon** Park :
 
-![Markdowm Image](/assets/images/posts/Lynn_canyon.JPG)
+![Markdowm Image](/assets/images/Lynn_canyon.JPG)
 
 - **le vélo** :
     - presque tous les jours en mode urbain, pour aller à l'école et au travail
     - testé en "tout-terrain" avec les enfants à <a href="https://www.trailforks.com/region/mount-fromme/">Mountain Fromme</a>, à 15min de la maison en voiture. C'est un véritable parc de VTT, avec des pistes abordables, même pour les enfants et d'autres... plus orientées experts... Cf <a href="https://www.youtube.com/watch?v=HG2D7qRermo">vidéo piste Imonator</a>.... Ici, avant le départ sur une "piste verte" :
 
-![Markdowm Image](/assets/images/posts/VTT_Fromme.JPG)
+![Markdowm Image](/assets/images/VTT_Fromme.JPG)
 
 - **le kayak**, avec des panoramas à couper le souffle...
 
-![Markdowm Image](/assets/images/posts/kayak.JPG)
+![Markdowm Image](/assets/images/kayak.JPG)
 
 - **le patin à glace**, en patinoire intérieure ou extérieure comme ici à Grouse Mountain :
 
@@ -41,7 +41,7 @@ Eh bien, une fois ce point de situation fait, je réalise d'autant plus que l'on
 
 - **le ski** ; l'hiver approche, les sommets qui nous entourent blanchissent... et les stations ouvrent ! Nous avons pris des forfaits saison pour <a href="https://www.cypressmountain.com/">Cypress Mountain</a> l'une des stations les plus proches de chez nous. On essaie d'y aller au moins une fois tous les WE. En tant que Bretons qui aiment skier, on apprécie tous les 5 de pouvoir y aller aussi régulièrement, pour quelques heures, à seulement 20min en voiture de la maison !
 
-![Markdowm Image](/assets/images/posts/ski_Cypress_Dec19.jpg)
+![Markdowm Image](/assets/images/ski_Cypress_Dec19.jpg)
 
 - sans oublier les **Grizzlis** de Grouse, la ferme de **saumons de Capilano**, les balades sur **le "seawall" de Vancouver** et certainement bien d'autres choses que j'oublie !
 
@@ -53,5 +53,5 @@ A bientôt !
 
 ---
 
-![Markdowm Image](/assets/images/posts/vue_Grouse.JPG)
+![Markdowm Image](/assets/images/vue_Grouse.JPG)
 <figcaption class="caption">Vancouver depuis le sommet de Grouse</figcaption>
