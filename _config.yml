@@ -4,7 +4,7 @@ title: "Les JegLain au Canada"
 description: "Une aventure en famille dans l'Ouest Canadien"
 logo: 'assets/images/Canada_flag.jpg'
 favicon: 'assets/images/Canada_flag.jpg'
-baseurl: '/'
+baseurl: ''
 google_analytics: 'UA-154227687-1'
 #disqus: 'demowebsite'
 #mailchimp-list: ''
