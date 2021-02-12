@@ -1,0 +1,40 @@
+---
+title: "Test Post"
+layout: post
+date: 2019-12-31 12:00
+image: /assets/images/posts/xxx.jpg
+headerImage: false
+tag:
+- test
+star: false
+category: 
+projects: false
+author: flelain
+description: test post to try some new stuff
+---
+
+
+- **le vélo** :
+    - presque tous les jours en mode urbain, pour aller à l'école et au travail
+    - testé en "tout-terrain" avec les enfants à <a href="https://www.trailforks.com/region/mount-fromme/">Mountain Fromme</a>, à 15min de la maison en voiture. C'est un véritable parc de VTT, avec des pistes abordables, même pour les enfants et d'autres... plus orientées experts... Cf <a href="https://www.youtube.com/watch?v=HG2D7qRermo">vidéo piste Imonator</a>.... Ici, avant le départ sur une "piste verte" :
+
+![Markdowm Image](/assets/images/posts/VTT_Fromme.JPG)
+
+- **le kayak**, avec des panoramas à couper le souffle...
+
+![Markdowm Image](/assets/images/posts/kayak.JPG)
+
+- **le patin à glace**, en patinoire intérieure ou extérieure comme ici à Grouse :
+
+<iframe width="560" height="310" src="/assets/videos/IMG_7751.mp4" frameborder="0" allowfullscreen autoplay="false"></iframe>
+
+
+![Markdowm Image](/assets/images/posts/skating.JPG)
+<figcaption class="caption">Les enfants débutent mais se débrouillent déjà pas mal !</figcaption>
+
+Test of Figcaption margin
+
+---
+
+![Markdowm Image](/assets/images/posts/vue_Grouse.JPG)
+<figcaption class="caption">Vancouver depuis le sommet de Grouse</figcaption>

@@ -1,0 +1,43 @@
+---
+title: "This blog creation: my path to get there"
+layout: post
+date: 2019-12-07 15:58
+image: /assets/images/posts/cloud-centric-Linux.jpg
+tag:
+- Cloud
+- AWS
+- jekyll
+- github
+- Linux
+categories:
+- Projet
+author: flelain
+description: some details about this blog creation
+---
+
+What I'm gonna relate here will surely look like something very basic from the perspective of anyone at least a bit versed in Web technologies, Cloud or software development. In fact, that's a way for me to synthetise and share what I've accomplished during these last three months, in parallel of my looking for a job and networking in Vancouver area.
+
+So, what's at stake here? The personal desire to get (back) into a pure hands-on experience, while answering to a family and friends request by setting up a blog. These two goals were basically my starting point back in October. Retrospectively, my actual launch pad was my wish to better understand the public Cloud offer. Tired -frustrated?..- by going through so many job ads requiring Public Cloud knowledge and practice, I decided to train on this market's champion offer: Amazon Web Services. Training's free, certification's "only" US$100 (for <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">Certified Cloud Practioner</a>). Once the certificate passed, I thought this brand new knowledge plus my AWS account might be a great basis for our family blog. There we are! Well... almost :) Almost because it's great to have your virtual server up and running in an AWS EC2 instance, but bare as it is originally, it doesn't serve many people on the web :-/ And there, things are getting more interesting and... time-consuming or even addictive in the same time! From my web technologies novice point of view -my last html and javascript productions date back to the early 2000's, I started to build what still looks like a never-ending puzzle to me. But what discoveries!
+
+In order (or a kind of):
+- **github**, to find out a nice but simple blog template ; I opted for the "minimalist" <a href="https://github.com/sergiokopplin/indigo">Indigo Template</a> provided by <a href="https://github.com/sergiokopplin/">Sergio Kopplin</a>
+
+- **git and github principles, functioning and setup** in a Windows environment (my laptop) and a Linux one (my EC2 instance, which runs an Ubuntu 18.04)
+- a **code editor**, which is worth to dig into, git-aware and managing github synchronization ; I chose <a href="https://atom.io/">**Atom**</a>, an opensource editor developed by github
+
+- <a href="https://jekyllrb.com/">**jekyll**</a>, a static site generator, which is one of the underlying tools of this site
+- node.js via the <a href="https://github.com/JustComments/jc-server">opensource version</a> of the commercial <a href="https://just-comments.com/">justcomments</a> to offer comments at the end of the posts
+
+- and inevitably... **Linux administration basics**, to install the needed packages on my VM, deploy and configure my webserver, setup and tune node.js front and back-ends, ...
+
+I still must have forgotten some stuff I went through to get at this current result, like registering and managing our domain *jeglain.net* via **AWS Route 53**, creating an **Azure account** to host my development environment, ... but I think the main items are those listed above.
+
+And now, what's next? Regarding the blog, I guess it'll be mostly posts production and only a little maintenance. Beyond that, as a new technical and -hopefully- realistic goal, I'd like to keep on studying Linux administration and validate at one point my skill set through <a href="https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/">Linux Foundation Certified System Administrator</a> certification. Still a huge work ahead!
+
+Dear readers, I think we can call it a day!.. Thanks for reading and feel free to comment below!
+
+---
+
+*Pourquoi ai-je écrit ce billet en anglais ? Simplement parce que je pense qu'il s'adresse tout aussi bien à l'audience habituelle de ce blog qu'à n'importe quel autre contact, ami ou collègue anglophone que je pourrais avoir au Canada (ou n'importe où ailleurs) et que mes pérégrinations techniques pourraient intéresser. Et je considère que vous maîtrisez plutôt bien l'anglais si vous êtes arrivés jusque-là ! (enfin, l'anglais tel qu'écrit par un Français quoi...)*
+
+*Why did I write this post in English? Simply because I think it's aimed at this blog regular French audience as well as any other English-speaking contact, friend, colleague, ... that I might have here in Canada (or wherever actually) and interested in my technical adventures. And I assume you master English pretty well if you've made it up to here! (well, the sort of English a French writes...)*
