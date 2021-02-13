@@ -7,10 +7,10 @@ favicon: 'assets/images/Canada_flag.jpg'
 baseurl: ''
 google_analytics: 'UA-154227687-1'
 #disqus: 'demowebsite'
-#mailchimp-list: ''
+mailchimp-list: 'https://gmail.us1.list-manage.com/subscribe/post?u=4838ccc02261c6a5c89912a1f&amp;id=65d39f26cb'
 include: ["_pages"]
 permalink: /:title/
-email: blog.jeglain@gmail.com
+email: f/maylznwz
 
 # Authors
 authors:
