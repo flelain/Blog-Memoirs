@@ -3,7 +3,7 @@ layout: page
 title: The "raison d'être" of this website 
 permalink: /about
 comments: false
-image: assets/images/aerial-sunset-from-Grouse.jpg
+image: assets/images/aerial-sunset-from-Grouse2.jpg
 imageshadow: true
 ---
 
